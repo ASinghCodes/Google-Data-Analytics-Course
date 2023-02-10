@@ -3,7 +3,7 @@
 
 ## Courses: 
 
-### 1) [Foundations: Data, Data, Everywhere](../Foundations: Data, Data, Everywhere)
+### 1) [Foundations: Data, Data, Everywhere](../tree/main/Foundations:%20Data%2C%20Data%2C%20Everywhere)
    Learnings:
 
     + Real-life roles and responsibilities of a junior data analyst
