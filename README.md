@@ -1,6 +1,9 @@
 # Google Data Analytics Official Course
-- https://www.coursera.org/professional-certificates/google-data-analytics?trk_ref=camodule
-
+- Course Link: https://www.coursera.org/professional-certificates/google-data-analytics?trk_ref=camodule
+```diff
++ COURSE STATUS: IN PROGRESS
+```
+   
 ## Courses: 
 
 ### 1) [Foundations: Data, Data, Everywhere](../main/Foundations:%20Data%2C%20Data%2C%20Everywhere)
