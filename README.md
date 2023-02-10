@@ -131,7 +131,7 @@
     + Generating data visualizations in R
     + Reporting on data analysis to stakeholders
 
-### 8) [Google Data Analytics Capstone: Complete a Case Study](../main/Data%20Analysis%20with%20R%20Programming)
+### 8) [Google Data Analytics Capstone: Complete a Case Study](../main/Google%20Data%20Analytics%20Capstone:%20Complete%20a%20Case%20Study)
    Learnings:
 
     + How a data analytics portfolio distinguishes you from other candidates
