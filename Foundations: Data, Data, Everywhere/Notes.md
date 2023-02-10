@@ -13,3 +13,4 @@ Reading:
 
 > 4 EXAMPLES OF BUSINESS ANALYTICS IN ACTION (https://online.hbs.edu/blog/post/business-analytics-examples)
 
+- Data ecosystems are made up of various elements that interact with one another in order to produce, manage, store, organize, analyze, and share data.
