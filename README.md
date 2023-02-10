@@ -3,7 +3,7 @@
 
 ## Courses: 
 
-### 1) [Foundations: Data, Data, Everywhere](Google-Data-Analytics-Course/Foundations: Data, Data, Everywhere)
+### 1) [Foundations: Data, Data, Everywhere](../Foundations: Data, Data, Everywhere)
    Learnings:
 
     + Real-life roles and responsibilities of a junior data analyst
