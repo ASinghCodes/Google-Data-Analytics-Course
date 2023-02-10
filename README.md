@@ -20,7 +20,7 @@
     + Showing trends and patterns with data visualizations
     + Ensuring your data analysis is fair
 
-### 2) Ask Questions to Make Data-Driven Decisions
+### 2) [Ask Questions to Make Data-Driven Decisions](../main/Ask%20Questions%20to%20Make%20Data-Driven%20Decisions)
    Learnings:
 
     + How data analysts solve problems with data
@@ -38,7 +38,7 @@
     + Managing team and stakeholder expectations
     + Problem-solving and conflict-resolution
 
-### 3) Prepare Data for Exploration
+### 3) [Prepare Data for Exploration](../main/Prepare%20Data%20for%20Exploration)
    Learnings:
 
     + How data is generated
@@ -56,7 +56,7 @@
     + Organizing and protecting data
     + Connecting with the data community 
 
-### 4) Process Data from Dirty to Clean
+### 4) [Process Data from Dirty to Clean](../main/Process%20Data%20from%20Dirty%20to%20Clean)
    Learnings:
 
     + Data integrity and the importance of clean data
@@ -73,7 +73,7 @@
     + Cleaning large datasets by writing SQL queries
     + Documenting data-cleaning processes
 
-### 5) Analyze Data to Answer Questions
+### 5) [Analyze Data to Answer Questions](../main/Analyze%20Data%20to%20Answer%20Questions)
    Learnings:
 
     + Steps data analysts take to organize data
@@ -92,7 +92,7 @@
     + Substantiating data analysis processes
     + Seeking feedback and support from others during data analysis
 
-### 6) Share Data Through the Art of Visualization
+### 6) [Share Data Through the Art of Visualization](../main/Share%20Data%20Through%20the%20Art%20of%20Visualization)
    Learnings:
 
     + Design thinking
@@ -111,7 +111,7 @@
     + Presenting to others about data
     + Answering questions about data
 
-### 7) Data Analysis with R Programming
+### 7) [Data Analysis with R Programming](../main/Data%20Analysis%20with%20R%20Programming)
    Learnings:
 
     + Programming languages and environments
@@ -131,7 +131,7 @@
     + Generating data visualizations in R
     + Reporting on data analysis to stakeholders
 
-### 8) Google Data Analytics Capstone: Complete a Case Study
+### 8) [Google Data Analytics Capstone: Complete a Case Study](../main/Data%20Analysis%20with%20R%20Programming)
    Learnings:
 
     + How a data analytics portfolio distinguishes you from other candidates
