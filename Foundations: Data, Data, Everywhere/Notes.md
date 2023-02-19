@@ -1,5 +1,6 @@
 # Notes 
-
+## Week 1
+_______________________
 - Data analysis is the collection, transformation, and organization of data to draw conclusions, make predictions, and drive informed decision making.
 
 - Ask: defining the project and what a successful result is
@@ -31,3 +32,13 @@ Reading:
 Reading: 
 
 > Big Data Adoption and Planning Considerations (https://www.informit.com/articles/article.aspx?p=2473128&seqNum=11&ranMID=24808) 
+_______________________
+## Week 2
+_______________________
+## Week 3
+_______________________
+## Week 4
+_______________________
+## Week 5
+_______________________
+_______________________
