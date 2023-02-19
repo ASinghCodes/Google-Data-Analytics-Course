@@ -1,6 +1,7 @@
 # Notes 
-## Week 1
 _______________________
+## :books: Week 1
+
 - Data analysis is the collection, transformation, and organization of data to draw conclusions, make predictions, and drive informed decision making.
 
 - Ask: defining the project and what a successful result is
@@ -33,12 +34,22 @@ Reading:
 
 > Big Data Adoption and Planning Considerations (https://www.informit.com/articles/article.aspx?p=2473128&seqNum=11&ranMID=24808) 
 _______________________
-## Week 2
+## :books: Week 2
+
+- Analytical skills are qualities and characteristics associated with solving problems using facts.
+- The five essential points of Analytical Skills: 
+  - Curiosity: wanting to learn something
+  - Understanding context: The condition in which something exists or happens
+  - Having a technical mindset: The ability to break things down into smaller steps or pieces and work with them in an orderly and logical way
+  - Data Design: How you organize information
+  - Data Strategy: The management of the people, processes, and tools used in data analysis 
+
+
 _______________________
-## Week 3
+## :books: Week 3
 _______________________
-## Week 4
+## :books: Week 4
 _______________________
-## Week 5
+## :books: Week 5
 _______________________
 _______________________
