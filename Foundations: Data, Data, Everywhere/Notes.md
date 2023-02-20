@@ -44,7 +44,14 @@ _______________________
   - Data Design: How you organize information
   - Data Strategy: The management of the people, processes, and tools used in data analysis 
 
-
+- Analytical thinking involves identifying and defining a problem before solving it. Its five key aspects are visualization, strategy, problem-orientation, correlation, and big-picture and detail-oriented thinking.
+- A correlation is like a relationship; it does not equal causation.
+- Big-picture thinking helps you zoom out and see possibilities and opportunities, while detail-oriented thinking is about figuring out all aspects that will help you execute a plan.
+- Root cause: The reason why a problem occurs
+- Ask "Why?" five times to reveal root cause
+- Gap Analysis: A method for examining and evaluating how a process works currently in order to get where you want to be in the future.
+- Data-driven decision making: Using facts to guide business strategy
+- 
 _______________________
 ## :books: Week 3
 _______________________
