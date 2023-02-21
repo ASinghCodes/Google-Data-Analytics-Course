@@ -51,9 +51,10 @@ _______________________
 - Ask "Why?" five times to reveal root cause
 - Gap Analysis: A method for examining and evaluating how a process works currently in order to get where you want to be in the future.
 - Data-driven decision making: Using facts to guide business strategy
-- 
 _______________________
 ## :books: Week 3
+
+- The life cycle of data is to plan, capture, manage, analyze, archive, and destroy.
 _______________________
 ## :books: Week 4
 _______________________
