@@ -55,6 +55,21 @@ _______________________
 ## :books: Week 3
 
 - The life cycle of data is to plan, capture, manage, analyze, archive, and destroy.
+  - Plan: Decide what kind of data is needed, how it will be managed, and who will be responsible for it.
+
+  - Capture: Collect or bring in data from a variety of different sources.
+  - Manage: Care for and maintain the data. This includes determining how and where it is stored and the tools used to do so.
+  - Analyze: Use the data to solve problems, make decisions, and support business goals.
+  - Archive: Keep relevant data stored for long-term and future reference.
+  - Destroy: Remove data from storage and delete any shared copies of the data.
+  
+- Database: a collection of data stored in a computer system
+- Defining a problem: look at the current state and identify how it's different from the ideal state
+- You want to ask all of the right questions at the beginning of the engagement so that you better understand what your leaders and stakeholders need from this analysis.
+- A formula is a set of instructions that perform a specific calculation using the data in a spreadsheet. It can do basic things, such as add, subtract, multiply, and divide, but they do not stop there.
+- A query language is a computer programming language that allows you to retrieve and manipulate data from a database. 
+![image](https://user-images.githubusercontent.com/109057183/221278645-134b0356-3158-4987-86ff-691081596c4f.png)
+
 _______________________
 ## :books: Week 4
 _______________________
