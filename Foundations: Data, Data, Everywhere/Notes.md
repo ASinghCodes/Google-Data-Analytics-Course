@@ -72,6 +72,22 @@ _______________________
 
 _______________________
 ## :books: Week 4
+
+- Attribute: a characteristic or quality of data used to label a column in a table
+- An observation includes all of the attributes for something contained in a row of a data table.
+- use "LIKE" in SQL to get something within similarity e.g. WHERE field1 LIKE "Ch%" with the % representing wild card value, can also be * in some databases
+- use -- to comment or /* comment *\
+- use AS to create an alias
+
+Reading:
+
+> W3 SQL (https://www.w3schools.com/sql/default.asp)
+
+Reading:
+
+> SQL Cheatsheet (https://towardsdatascience.com/sql-cheat-sheet-776f8e3189fa)
+
+
 _______________________
 ## :books: Week 5
 _______________________
