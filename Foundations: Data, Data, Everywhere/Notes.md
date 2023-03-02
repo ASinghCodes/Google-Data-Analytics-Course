@@ -90,5 +90,7 @@ Reading:
 
 _______________________
 ## :books: Week 5
+
+- Data-driven decision-making is when facts discovered through data analysis are used to guide business strategy.
 _______________________
 _______________________
