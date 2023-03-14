@@ -92,5 +92,6 @@ _______________________
 ## :books: Week 5
 
 - Data-driven decision-making is when facts discovered through data analysis are used to guide business strategy.
+- Fairness means ensuring that your analysis doesn't create or reinforce bias. 
 _______________________
 _______________________
