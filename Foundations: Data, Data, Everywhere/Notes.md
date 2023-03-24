@@ -115,5 +115,9 @@ _______________________
 - Risk analyst — analyzes financial documents, economic conditions, and client data to help companies determine the level of risk involved in making a particular business decision
 
 - Healthcare analyst — analyzes medical data to improve the business aspect of hospitals and medical facilities
+
+Watch: 
+
+> Building Authentic Relationships (https://www.ted.com/talks/anna_leach_building_authentic_relationships)
 _______________________
 _______________________
