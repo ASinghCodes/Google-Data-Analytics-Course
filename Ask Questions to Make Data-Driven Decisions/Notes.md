@@ -11,6 +11,23 @@ _______________________
   - Finding Patterns: Using historical data to understand what happened in the past and is therefore likely to happen again
   ![image](https://user-images.githubusercontent.com/109057183/227663790-b2bc58ac-ea73-4641-8379-42f512a62267.png)
 
+- Effective questions follow the SMART methodology
+  - Specific
+  - Measurable
+  - Action-oriented
+  - Relevant
+  - Time-bound
+  
+- Specific questions are simple, significant and focused on a single topic or a few closely related ideas
+- Measurable questions can be quantified and assessed
+- Action-oriented questions encourage change
+- Relevant questions matter, are important and have significance to the problem you're trying to solve
+- Time-bound questions specify the time to be studied
+
+- Remember: fairness means ensuring that your questions don't create or reinforce bias
+
+![image](https://user-images.githubusercontent.com/109057183/228958679-2de6ee70-43e7-426f-990f-4caeb4a9f866.png)
+
 - 
 
 Reading: 
