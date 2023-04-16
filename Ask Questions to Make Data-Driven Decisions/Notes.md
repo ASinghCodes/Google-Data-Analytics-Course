@@ -27,14 +27,17 @@ _______________________
 - Remember: fairness means ensuring that your questions don't create or reinforce bias
 
 ![image](https://user-images.githubusercontent.com/109057183/228958679-2de6ee70-43e7-426f-990f-4caeb4a9f866.png)
-
-- 
-
-Reading: 
-
-> 4 EXAMPLES OF BUSINESS ANALYTICS IN ACTION (https://online.hbs.edu/blog/post/business-analytics-examples)
 _______________________
 ## :books: Week 2
+
+- Data-inspired decision-making explores different data sources to find out what they have in common
+- An algorithm is a process or set of rules to be followed for a specific task.
+- Quantitative data is all about the specific and objective measures of numerical facts.
+- Qualitative data describes subjective or explanatory measures of qualities and characteristics or things that can't be measured with numerical data, like your hair color.
+
+<img width="637" alt="image" src="https://user-images.githubusercontent.com/109057183/232263314-4215ebae-9b0c-4fc2-aa70-12ee41900ac2.png">
+
+- 
 _______________________
 ## :books: Week 3
 _______________________
