@@ -1,0 +1,2 @@
+In this folder are my answers for the graded quizes. Given that I am auditing the course I am not allowed to submit the answers without paying for the course, hence there is no way to verify my answers without breaking code of conduct. Since I refuse to do that, I save my answers to look back on my own understanding later on.
+I do not know why the course has shifted me back to auditing after giving me full access to quizzes last time, hence I will go back to the original plan for time being.
