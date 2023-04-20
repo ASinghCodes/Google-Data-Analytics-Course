@@ -37,7 +37,11 @@ _______________________
 
 <img width="637" alt="image" src="https://user-images.githubusercontent.com/109057183/232263314-4215ebae-9b0c-4fc2-aa70-12ee41900ac2.png">
 
-- 
+- Data starts as a collection of raw facts, until we organize them into individual metrics that represent a single type of data.
+
+- Strategic: focuses on long term goals and strategies at the highest level of metrics
+- Operational: short-term performance tracking and intermediate goals
+- Analytical: consists of the datasets and the mathematics used in these sets
 _______________________
 ## :books: Week 3
 _______________________
