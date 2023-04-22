@@ -42,6 +42,14 @@ _______________________
 - Strategic: focuses on long term goals and strategies at the highest level of metrics
 - Operational: short-term performance tracking and intermediate goals
 - Analytical: consists of the datasets and the mathematics used in these sets
+
+![image](https://user-images.githubusercontent.com/109057183/233807034-815d3382-9aae-4630-a2f7-824f6c56ad32.png)
+
+- When thinking about the benefits and challenges of big data, it helps to think about the 4 Vs: volume, variety, velocity, and veracity.
+
+![image](https://user-images.githubusercontent.com/109057183/233807091-e2e4ae39-8a00-47dd-b3c4-f6ef41780128.png)
+
+
 _______________________
 ## :books: Week 3
 _______________________
