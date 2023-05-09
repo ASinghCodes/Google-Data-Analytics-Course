@@ -55,6 +55,13 @@ _______________________
 
 ![image](https://user-images.githubusercontent.com/109057183/233865568-db0d6aa9-8c71-4851-88ae-53daa83cd01d.png)
 
+- A cell reference is a single cell or range of cells in a worksheet that can be used in a formula.
+- Absolute references will not change when you copy and paste the formula in a different cell. The cell being referenced is always the same.
+- User IFERROR function to handle DIV errors
+![image](https://user-images.githubusercontent.com/109057183/236940790-5d3a67d3-3fc3-4416-ab7b-91d6fe556257.png)
+
+- A bit redundant topic since you can google and figure out errors with practical use
+- A function is a preset command that automatically performs a specific process or task using the data.
 
 _______________________
 ## :books: Week 4
