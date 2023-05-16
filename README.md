@@ -1,7 +1,7 @@
 # Google Data Analytics Official Course
 - Course Link: https://www.coursera.org/professional-certificates/google-data-analytics?trk_ref=camodule
 ```diff
-+ COURSE STATUS: IN PROGRESS
++ COURSE STATUS: COMPLETED
 ```
    
 ## Courses: 
