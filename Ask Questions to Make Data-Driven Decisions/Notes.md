@@ -62,6 +62,9 @@ _______________________
 
 - A bit redundant topic since you can google and figure out errors with practical use
 - A function is a preset command that automatically performs a specific process or task using the data.
+- Problem domain: the specific area of analysis that encompasses every activity affecting or affected by the problem.
+- Structured thinking is the process of recognizing the current problem or situation, organizing available information, revealing gaps and opportunities, and identifying the options.
+- A scope of work or SOW is an agreed- upon outline of the work you're going to perform on a project.
 
 _______________________
 ## :books: Week 4
